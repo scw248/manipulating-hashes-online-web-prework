@@ -14,7 +14,9 @@ def first_challenge
   }
 
   contacts.each do |person, attribute|
-    
+    if person == "Freddy Mercury"
+      person.each do ||
+      end
   end
 
 
