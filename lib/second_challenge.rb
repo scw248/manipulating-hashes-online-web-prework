@@ -7,6 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.values.join
-  
+groceries.each do |category|
+  category.values
+end
 end
